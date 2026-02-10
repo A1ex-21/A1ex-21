@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
 <img width="150" height="1993" alt="Coat_of_Arms_of_the_University_of_Westminster svg" src="https://github.com/user-attachments/assets/db30ca92-e32e-4b7d-954a-dfb4bd33385b" />
 </p>
 
