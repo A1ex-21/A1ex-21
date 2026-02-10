@@ -58,7 +58,8 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
 - [My Portfolio](https://github.com/A1ex-21/My_Portfolio): My comprehensive portfolio
 
 ## Contact me
-- [Linkedin]()
+- [Linkedin](https://www.linkedin.com/in/alexander-thompson-25336b231/)
+- [Kaggle](https://www.kaggle.com/a1ex21)
 <!--
 **A1ex-21/A1ex-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
