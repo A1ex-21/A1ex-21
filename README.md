@@ -59,6 +59,7 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
 ### R
 
 <img width="50" height="50" title="Tidyverse" src="https://github.com/user-attachments/assets/67ea47dc-8762-4aab-9fa5-1386b480a09e" />
+<img width="50" height="50" title="Tidyverse" src="https://github.com/user-attachments/assets/3833a76b-8352-44e8-b28a-5e392c5fba0b" />
 
 ### Python
 
