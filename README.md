@@ -52,6 +52,7 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
 
 </p>
 ---
+
 ## Skills
 
 - **Programming Languages:** SQL (*SSMS*, *BigQuery*, *Postgre*), R, Python
