@@ -80,9 +80,9 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
   <img src="https://github.com/user-attachments/assets/2c4dfb1d-b0e7-4534-b6a4-48b5eba551e6" height="50" title="XGBoost"/>
   <img src="https://github.com/user-attachments/assets/6a0694cf-f95e-4a34-a62d-b6c6703e0bdf" height="50" title="Matplotlib"/>
   <img src="https://github.com/user-attachments/assets/72a7cca7-3aab-4009-8c4c-99e30da0ff90" width="50" title="Seaborn"/>
-  <img src="https://github.com/user-attachments/assets/3ad14144-cb90-40b1-a6c8-77c6f7e34d6e" width="50" title="Plotly"/>
+  <img src="https://github.com/user-attachments/assets/3ad14144-cb90-40b1-a6c8-77c6f7e34d6e" height="50" title="Plotly"/>
   <img src="https://github.com/user-attachments/assets/896b2d34-f067-4ffd-92d1-3e62c61ba210" width="50" title="Requests"/>
-  <img src="https://github.com/user-attachments/assets/2d6440cf-b76d-4ebf-9d90-50f31c614ab2" width="50" title="BeautifulSoup"/>
+  <img src="https://github.com/user-attachments/assets/2d6440cf-b76d-4ebf-9d90-50f31c614ab2" height="50" title="BeautifulSoup"/>
   <img src="https://github.com/user-attachments/assets/d907921f-5d3c-4de5-a588-ee697630f41d" width="50" title="JSON"/>
   <img src="https://github.com/user-attachments/assets/39bbf4ad-c0d3-4678-895d-00d8d0be0aff" width="50" title="ElementTree"/>
 </p>
