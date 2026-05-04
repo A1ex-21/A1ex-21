@@ -52,10 +52,26 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
 
 </p>
 ---
+## Skills
+
+- **Programming Languages:** SQL (*SSMS*, *BigQuery*, *Postgre*), R, Python
+- **Statistical Software:** IBM SPSS, EViews, Minitab
+- **Machine Learning:** Supervised (*Naive Bayes*, *Decision Trees*, *Random Forest*, *XGBoost*), Unsupervised (*K-Means*, *DBSCAN*, *Agglomerative Clustering*)
+- **Natural Language Processing:** Tokenization
+- **Statistical Analysis:** Regression, Econometrics, Forecasting, Hypothesis Testing.
+- **Feature Engineering:** Data Transformation, Selection and Extraction.
+- **Model Optimisation:** Validation, Cross-Validation, Hyperparameter Tuning, GridSearch.
+- **Data Visualisation:** Tableau, ggplot2, Matplotlib, Seaborn, Plotly.
+- **Data Engineering:** ETL, APIs, REST APIs, HTTP Requests, BeautifulSoup, ElementTree, Web Scraping.
+- **Data Preparation:** Cleaning, Structuring and Transforming unstructured data.
+- **Data Parsing & Markup:** JSON, XML, HTML (*DOM Trees* & *Tables*), LaTeX (MiKTeX), Pandoc.
+- **Bloomberg Terminal:** Market Research, Analysis, Foreign Exchange, Commodities, Stocks, Indices and Bond Markets.
 
 ## Featured Work
 
 - [My Portfolio](https://github.com/A1ex-21/My_Portfolio): My comprehensive portfolio
+- [TikTok NLP](https://github.com/A1ex-21/My_Portfolio/blob/main/Cumulative_Case_Studies/TikTok/NLP_Tokenization/Tiktok_Predictive_Model_Development_NLP_2.ipynb): My implementation of Natural Language Processing via Tokenization for video transcript text for claims classification.
+- [Applied Statistics for Data Science with Python](https://github.com/A1ex-21/My_Portfolio/blob/main/Publications/Applied%20Statistics%20for%20Data%20Science%20with%20Python.pdf): My comprehensive applied statistics textbook covering inferential statistics in Python. Designed as a resource for both learning and professional reference.
 
 ## Contact me
 - [Linkedin](https://www.linkedin.com/in/alexander-thompson-25336b231/)
