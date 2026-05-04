@@ -27,7 +27,7 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
 ## Proficiency
 
 <p align="center">
-
+  
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50" title="Microsoft SQL Server"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="50" title="R"/>
@@ -49,19 +49,45 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
 <img width="80" alt="Bloomberg" src="https://github.com/user-attachments/assets/47c18d73-3d86-4f0c-ba3b-941143501743" title="Bloomberg"/>
 <img src="https://github.com/user-attachments/assets/066e5ddc-bc54-44c3-9d8b-3c12b83db3c3" width="50" title="Bloomberg Terminal"/>
 
-
 </p>
 
 ---
 
-## Packages, Libraries and Modules
+### Packages, Libraries and Modules
 
-### R
+#### R
 
-<img width="50" height="50" title="Tidyverse" src="https://github.com/user-attachments/assets/67ea47dc-8762-4aab-9fa5-1386b480a09e" />
-<img width="50" height="50" title="Tidyverse" src="https://github.com/user-attachments/assets/3833a76b-8352-44e8-b28a-5e392c5fba0b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3833a76b-8352-44e8-b28a-5e392c5fba0b" height="50" title="Tidyerse"/>
+  <img src="https://github.com/user-attachments/assets/c48806e1-088b-4880-946e-76ac1185c8c8" width="50" title="ggplot2"/>
+  <img src="https://github.com/user-attachments/assets/7fb6828e-67b7-4b7b-a6d3-644108ec1f9f" width="50" title="dplyr"/>
+  <img src="https://github.com/user-attachments/assets/e35a0f98-db87-465f-a98a-6da58f66cd49" width="50" title="Lubridate"/>
+  <img src="https://github.com/user-attachments/assets/47af2f3e-8683-43fa-a3e9-087cb3e41230" width="50" title="forcats"/>
+  <img src="https://github.com/user-attachments/assets/df76b6a4-4250-4578-ab8e-6f65f80f3623" width="50" title="tibble"/>
+  <img src="https://github.com/user-attachments/assets/ead33e2c-022e-4510-a68b-d3a2f97ce349" width="50" title="CRAN Task Views"/>
+  <img src="https://github.com/user-attachments/assets/0d3d7289-d0dd-4e14-98f9-60ce7427e65a" width="50" title="CRAN Logo"/>
+</p>
 
-### Python
+---
+
+#### Python
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4bdba2b9-1831-48d3-8918-cceaec9eb7f5" height="50" title="NumPy"/>
+  <img src="https://github.com/user-attachments/assets/1b6b1349-10cc-4d38-afb4-70f63a9f615f" width="50" title="pandas"/>
+  <img src="https://github.com/user-attachments/assets/2b120369-357a-4b5e-a1de-6d6ffb3543bc" width="50" title="SciPy"/>
+  <img src="https://github.com/user-attachments/assets/c948bf87-9209-4dcf-8389-4d5146111bbc" width="50" title="Statsmodels"/>
+  <img src="https://github.com/user-attachments/assets/31bfa052-d7ac-4cc6-ab0d-77e1f16413da" height="50" title="Scikit-Learn"/>
+  <img src="https://github.com/user-attachments/assets/2c4dfb1d-b0e7-4534-b6a4-48b5eba551e6" height="50" title="XGBoost"/>
+  <img src="https://github.com/user-attachments/assets/6a0694cf-f95e-4a34-a62d-b6c6703e0bdf" height="50" title="Matplotlib"/>
+  <img src="https://github.com/user-attachments/assets/72a7cca7-3aab-4009-8c4c-99e30da0ff90" width="50" title="Seaborn"/>
+  <img src="https://github.com/user-attachments/assets/3ad14144-cb90-40b1-a6c8-77c6f7e34d6e" width="50" title="Plotly"/>
+  <img src="https://github.com/user-attachments/assets/896b2d34-f067-4ffd-92d1-3e62c61ba210" width="50" title="Requests"/>
+  <img src="https://github.com/user-attachments/assets/2d6440cf-b76d-4ebf-9d90-50f31c614ab2" width="50" title="BeautifulSoup"/>
+  <img src="https://github.com/user-attachments/assets/d907921f-5d3c-4de5-a588-ee697630f41d" width="50" title="JSON"/>
+  <img src="https://github.com/user-attachments/assets/39bbf4ad-c0d3-4678-895d-00d8d0be0aff" width="50" title="ElementTree"/>
+</p>
+
+---
 
 ## Skills
 
