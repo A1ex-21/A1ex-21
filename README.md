@@ -51,7 +51,16 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
 
 
 </p>
+
 ---
+
+## Packages, Libraries and Modules
+
+### R
+
+<img width="50" height="50" title="Tidyverse" src="https://github.com/user-attachments/assets/67ea47dc-8762-4aab-9fa5-1386b480a09e" />
+
+### Python
 
 ## Skills
 
