@@ -105,12 +105,15 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
 - **Data Engineering:** ETL, APIs, REST APIs, HTTP Requests, BeautifulSoup, ElementTree, Web Scraping.
 - **Data Preparation:** Cleaning, Structuring and Transforming unstructured data.
 - **Data Parsing & Markup:** JSON, XML, HTML (*DOM Trees* & *Tables*), LaTeX (MiKTeX), Pandoc.
+- **Web Application Development:** Flask framework, Web App Development Lifecycle, Dynamic Routing, Error Handling, Static Analysis, Unit Testing, CRUD Operations, RESTful Web Services.
 - **Bloomberg Terminal:** Market Research, Analysis, Foreign Exchange, Commodities, Stocks, Indices and Bond Markets.
 
 ## Featured Work
 
 - [My Portfolio](https://github.com/A1ex-21/My_Portfolio): My comprehensive portfolio
 - [TikTok NLP](https://github.com/A1ex-21/My_Portfolio/blob/main/Cumulative_Case_Studies/TikTok/NLP_Tokenization/Tiktok_Predictive_Model_Development_NLP_2.ipynb): My implementation of Natural Language Processing via Tokenization for video transcript text for claims classification.
+- [Extracting Stock Market Data](https://github.com/A1ex-21/My_Portfolio/blob/main/Case_Studies/Web_Scraping/Extracting%20and%20Visualising%20Stock%20Market%20Data.md): Using the yfinance API to retrieve stock market data and then extracting revenue data for the stocks via web scraping on the macrotrends website.
+- [Emotion Detection Web App](https://github.com/A1ex-21/My_Portfolio/tree/main/Web_Applications/Emotion_Detection): A web application built with the Flask framework, for emotion detection of user inputted text.
 - [Applied Statistics for Data Science with Python](https://github.com/A1ex-21/My_Portfolio/blob/main/Publications/Applied%20Statistics%20for%20Data%20Science%20with%20Python.pdf): My comprehensive applied statistics textbook covering inferential statistics in Python. Designed as a resource for both learning and professional reference.
 
 ## Contact me
