@@ -85,6 +85,9 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
   <img src="https://github.com/user-attachments/assets/2d6440cf-b76d-4ebf-9d90-50f31c614ab2" height="50" title="BeautifulSoup"/>
   <img src="https://github.com/user-attachments/assets/d907921f-5d3c-4de5-a588-ee697630f41d" width="50" title="JSON"/>
   <img src="https://github.com/user-attachments/assets/39bbf4ad-c0d3-4678-895d-00d8d0be0aff" width="50" title="ElementTree"/>
+  <img src="https://github.com/user-attachments/assets/68429983-0133-4a07-87cb-55c1a117e832" height="50" title="Flask"/>
+  <img src="https://github.com/user-attachments/assets/5bd09077-0a5e-459e-87c2-e29b5c89ce5d" width="50" title="unittest"/>
+  <img src="https://github.com/user-attachments/assets/ca6a39d4-e3f4-4bbf-be5c-07089ace46ed" height="50" title="Pylint"/>
 </p>
 
 ---
