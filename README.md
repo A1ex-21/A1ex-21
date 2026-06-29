@@ -29,24 +29,27 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
 <p align="center">
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50" title="Microsoft SQL Server"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="50" title="R"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" title="Python"/>
-<img width="50" alt="EViews logo" src="https://github.com/user-attachments/assets/8f2722fe-7ba3-406f-bcf6-370f28d38a71" title="EViews"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg" width="40" title="MiniTab"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="50" title="PostgreSQL"/>
+<img src="https://github.com/user-attachments/assets/cf292f7d-6651-4098-aecf-d0b767e1ad57" height="25" title="MongoDB"/>
+<img src="https://github.com/user-attachments/assets/6d628fba-06dd-4afa-913c-47d97ab75a2c" height="50" title="Apache Cassandra"/>
+<img src="https://github.com/user-attachments/assets/b83a746b-fa57-4cf3-b297-c594dea507f2" height="50" title="IBM Cloudant"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" width="50" title="IBM SPSS"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="50" title="Anaconda"/>
+<img width="50" src="https://github.com/user-attachments/assets/8f2722fe-7ba3-406f-bcf6-370f28d38a71" title="EViews"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/minitab/minitab-original.svg" width="40" title="MiniTab"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" title="Git"/>
 <img src="https://github.com/user-attachments/assets/746e710c-8473-4bce-a8d3-a226c43b14de" width="50" title="Git Bash"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" title="Bash"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="50" title="Anaconda"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" title="Docker"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="50" title="Azure"/>
-<img width="50" alt="Azure ML 2" src="https://github.com/user-attachments/assets/3b9d78c4-2e60-43ef-ab90-4c2fa60f3c25" title="Azure ML"/>
+<img src="https://github.com/user-attachments/assets/3b9d78c4-2e60-43ef-ab90-4c2fa60f3c25" width="50" title="Azure ML"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" title="Jupyter"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="50" title="RStudio"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" title="VSCode"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original-wordmark.svg" width="50" title="Kali Linux">
-<img width="80" alt="Bloomberg" src="https://github.com/user-attachments/assets/47c18d73-3d86-4f0c-ba3b-941143501743" title="Bloomberg"/>
+<img src="https://github.com/user-attachments/assets/47c18d73-3d86-4f0c-ba3b-941143501743" width="80" title="Bloomberg"/>
 <img src="https://github.com/user-attachments/assets/066e5ddc-bc54-44c3-9d8b-3c12b83db3c3" width="50" title="Bloomberg Terminal"/>
 
 </p>
