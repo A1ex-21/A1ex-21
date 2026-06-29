@@ -98,6 +98,7 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
 ## Skills
 
 - **Programming Languages:** SQL (*SSMS*, *BigQuery*, *Postgre*), R, Python
+- **NoSQL:** MongoDB, Apache Cassandra, IBM Cloudant
 - **Statistical Software:** IBM SPSS, EViews, Minitab
 - **Machine Learning:** Supervised (*Naive Bayes*, *Decision Trees*, *Random Forest*, *XGBoost*), Unsupervised (*K-Means*, *DBSCAN*, *Agglomerative Clustering*)
 - **Natural Language Processing:** Tokenization
