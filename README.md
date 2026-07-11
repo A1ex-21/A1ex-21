@@ -33,6 +33,10 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" title="Python"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="50" title="PostgreSQL"/>
 <img src="https://github.com/user-attachments/assets/cf292f7d-6651-4098-aecf-d0b767e1ad57" height="25" title="MongoDB"/>
+<img src="https://github.com/user-attachments/assets/f22279ca-4f0e-430d-9d4c-3b07067e6519" height="50" title="Apache Spark"/>
+<img src="https://github.com/user-attachments/assets/5ffbebee-918b-4681-8f5c-f7ce045321a0" height="50" title="Apache Hadoop"/>
+<img src="https://github.com/user-attachments/assets/d72629b8-a3cc-43ff-82f7-4a2fc74e95d1" height="50" title="Apache HIVE"/>
+<img src="https://github.com/user-attachments/assets/b09234dc-bf15-43ef-8133-2c3fa351207f" height="50" title="Apache HBase"/>
 <img src="https://github.com/user-attachments/assets/6d628fba-06dd-4afa-913c-47d97ab75a2c" height="50" title="Apache Cassandra"/>
 <img src="https://github.com/user-attachments/assets/b83a746b-fa57-4cf3-b297-c594dea507f2" height="50" title="IBM Cloudant"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" width="50" title="IBM SPSS"/>
@@ -99,6 +103,7 @@ Currently I am expanding my portfolio with additional end-to-end projects and ca
 
 - **Programming Languages:** SQL (*SSMS*, *BigQuery*, *Postgre*), R, Python
 - **NoSQL:** MongoDB, Apache Cassandra, IBM Cloudant
+- **Big Data:** Apache Hadoop, HDFS, HIVE, Apache HBase, Apache Spark
 - **Statistical Software:** IBM SPSS, EViews, Minitab
 - **Machine Learning:** Supervised (*Naive Bayes*, *Decision Trees*, *Random Forest*, *XGBoost*), Unsupervised (*K-Means*, *DBSCAN*, *Agglomerative Clustering*)
 - **Natural Language Processing:** Tokenization
